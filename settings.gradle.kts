@@ -12,3 +12,4 @@ plugins {
 
 rootProject.name = "yourPizza"
 include("lib")
+include("src")
